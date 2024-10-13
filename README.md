@@ -36,3 +36,9 @@ EDA explore the data to anwser some of the questions about the data such as;
 
 
 
+
+
+
+
+
+
